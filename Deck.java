@@ -1,6 +1,5 @@
 /**************************
-*@auhtor Lilita Yenew
-*@uni lgy2104
+*@author Lilita Yenew
 *
 **************************/
 import java.util.ArrayList;
