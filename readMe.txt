@@ -1,6 +1,5 @@
 /**********************************
 *@author = Lilita Yenew
-*@uni = lgy2104
 *
 */
 Player class
