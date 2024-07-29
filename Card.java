@@ -1,7 +1,5 @@
 /**********************************
 *@author Lilita Yenew
-*@uni lgy2104
-*
 ***********************************/
 
 public class Card implements Comparable<Card>{
